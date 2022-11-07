@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T17:35:51.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-qWIWYu9uPbgx6xJpQTC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T17:36:40.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GhwJPIjPzjMzxr1Yaj0y" version="20.5.3" type="github">
   <diagram id="GQnaYG-rqlwZKuTvwa2_" name="Página-1">
-    <mxGraphModel dx="2997" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3307" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -344,6 +344,9 @@
         </mxCell>
         <mxCell id="dKy-7F5-_iyyMhqYww6v-67" value="Tablas Mappings CXC Catalogos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1310" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dKy-7F5-_iyyMhqYww6v-68" value="Tablas Mappings&amp;nbsp;ICIAS Catalogos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
