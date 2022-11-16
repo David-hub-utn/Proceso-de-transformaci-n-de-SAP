@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T12:56:17.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YCcuZxjQlXTgV2L7WI8N" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T13:09:48.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZIgrB74m7ByAAa5h7jei" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -162,8 +162,50 @@
         <mxCell id="iIZgBI8EUpiiRKbaklcZ-54" value="&lt;div&gt;Para tenere el catalogo completo de cuentas se crea balanza de enero pero con otra estructura en el nombre&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Se reali esto sobre balanza y no sobre axuliares ya que en balanza cuenta con estatus de la cuenta y contiene informacion mas completa&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="2160" width="410" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iIZgBI8EUpiiRKbaklcZ-56" target="iIZgBI8EUpiiRKbaklcZ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iIZgBI8EUpiiRKbaklcZ-56" value="vMes = 1 AND vAnio = 2022&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="2210" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iIZgBI8EUpiiRKbaklcZ-58" target="iIZgBI8EUpiiRKbaklcZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-58" value="Se generan los archivos 2_Excluye_SAP_BALANZA_vAniovMes.qvd&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="2350" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-60" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="2300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.024;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iIZgBI8EUpiiRKbaklcZ-58" target="iIZgBI8EUpiiRKbaklcZ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="2370" as="sourcePoint" />
+            <mxPoint x="-50" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iIZgBI8EUpiiRKbaklcZ-63" target="iIZgBI8EUpiiRKbaklcZ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-63" value="Se carga la tabla SAP_BALANZA_HISTORICO" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="2490" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iIZgBI8EUpiiRKbaklcZ-67" target="iIZgBI8EUpiiRKbaklcZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-67" value="$(vRutaTransformacionSAP)\BALANZA\PeriodosAnteriores\2_SAP_BALANZA*.qvd(qvd);" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="2505" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iIZgBI8EUpiiRKbaklcZ-69" target="iIZgBI8EUpiiRKbaklcZ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-69" value="Se genera el archivo 2_SAP_BALANZA_HISTORICO.qvd" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="2630" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIZgBI8EUpiiRKbaklcZ-71" value="Se borra la tabla SAP_BALANZAHISTORICO" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="2770" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
