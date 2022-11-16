@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T15:38:07.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="L2H9WwGdz-cBijTOQw99" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T16:14:19.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9QUv1WFiGAxTihLNiG3X" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,44 @@
         <mxCell id="hg-N5DIXzhscM3v_uJIH-21" value="Se carga la tabla Map_AntiguedadCuenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="695" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hg-N5DIXzhscM3v_uJIH-23" target="hg-N5DIXzhscM3v_uJIH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hg-N5DIXzhscM3v_uJIH-23" value="Se carga la tabla Map_AccountHomologada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="835" width="150" height="60" as="geometry" />
+          <mxGeometry x="255" y="820" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hg-N5DIXzhscM3v_uJIH-25" target="hg-N5DIXzhscM3v_uJIH-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-25" value="Se carga la tabla Map_CompañiaHomologada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="247.5" y="950" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="680" width="120" height="489" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cxc Catálogos&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hg-N5DIXzhscM3v_uJIH-30" target="hg-N5DIXzhscM3v_uJIH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-30" value="$(vRutaTransformacionCatalogosICIAS)2_ANTIGUEDAD_CUENTAS_ICIAS.QVD(qvd);" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="909.5" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hg-N5DIXzhscM3v_uJIH-31" target="hg-N5DIXzhscM3v_uJIH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-31" value="Se carga la tabla Map_CompañiaHomologada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="247.5" y="1090" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hg-N5DIXzhscM3v_uJIH-33" target="hg-N5DIXzhscM3v_uJIH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-33" value="Se carga la tabla Map_CuentaHomologadaICIAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="238.75" y="1230" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hg-N5DIXzhscM3v_uJIH-36" value="Se carga la tabla Map_DescCuentaHomologadaICIAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="224.38" y="1370" width="211.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
