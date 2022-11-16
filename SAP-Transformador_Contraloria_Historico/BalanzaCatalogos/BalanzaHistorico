@@ -1,56 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T13:39:26.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-Fsh0XHlYXA0D4esO--S" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T18:28:05.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iCGmNdDxSagI2sjRd3wv" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="6RvgUBA7cQKsE-6v5_hs-0">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="6RvgUBA7cQKsE-6v5_hs-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="BalanzaCatalogos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-0" target="6RvgUBA7cQKsE-6v5_hs-4">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-0" target="6RvgUBA7cQKsE-6v5_hs-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-0" value="Se carga la tabla SAP_CATALOGOS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-0" value="Se carga la tabla SAP_CATALOGOS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="170" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-2" target="6RvgUBA7cQKsE-6v5_hs-0">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-2" target="6RvgUBA7cQKsE-6v5_hs-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-2" value="$(vRutaTransformacionSAP)\BALANZA\PeriodosAnteriores\2_SAP_BALANZA*.qvd(qvd);&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-2" value="$(vRutaTransformacionSAP)\BALANZA\PeriodosAnteriores\2_SAP_BALANZA*.qvd(qvd);&lt;span style=&quot;&quot;&gt; &lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="175" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-4" target="6RvgUBA7cQKsE-6v5_hs-7">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-4" target="6RvgUBA7cQKsE-6v5_hs-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-4" value="Se genera el archivo&amp;nbsp;2_SAP_BALANZA_HISTORICO.qvd&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-4" value="Se genera el archivo&amp;nbsp;2_SAP_BALANZA_HISTORICO.qvd&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="85" y="290" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-7" target="6RvgUBA7cQKsE-6v5_hs-9">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-7" target="6RvgUBA7cQKsE-6v5_hs-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-7" value="Se borra la tabla SAP_BALANZAHISTORICO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-7" value="Se borra la tabla SAP_BALANZAHISTORICO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="85" y="410" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-9" target="6RvgUBA7cQKsE-6v5_hs-12">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-9" target="6RvgUBA7cQKsE-6v5_hs-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-9" value="Se carga la tabla SAP_BALANZAENERO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-9" value="Se carga la tabla SAP_BALANZAENERO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="85" y="530" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-11" value="$(vRutaTransformacionSAP)\BALANZA\PeriodosAnteriores\2_Excluye_SAP_BALANZA_202201.qvd(qvd);&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-11" value="$(vRutaTransformacionSAP)\BALANZA\PeriodosAnteriores\2_Excluye_SAP_BALANZA_202201.qvd(qvd);&lt;span style=&quot;&quot;&gt; &lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="535" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-12" target="6RvgUBA7cQKsE-6v5_hs-14">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6RvgUBA7cQKsE-6v5_hs-12" target="6RvgUBA7cQKsE-6v5_hs-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-12" value="Se genera el archivo 2_Excluye_SAP_BALANZA_202201.qvd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-12" value="Se genera el archivo 2_Excluye_SAP_BALANZA_202201.qvd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="85" y="650" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6RvgUBA7cQKsE-6v5_hs-14" value="Se borra la tabla SAP_BALANZAENERO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6RvgUBA7cQKsE-6v5_hs-14" value="Se borra la tabla SAP_BALANZAENERO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="85" y="770" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0HfPs1nz9akF1ALI2vQq-0" value="&lt;h1&gt;Remplazo&lt;/h1&gt;&lt;p&gt;Se guarda en la misma ruta porque se remplaza (se actualiza)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="580" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
