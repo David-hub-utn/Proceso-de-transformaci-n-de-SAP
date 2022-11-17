@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T14:34:21.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-HTobTQbzcjIYuyVYvb8" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T14:36:06.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UpcxQmtMyUfqENWLpq-z" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Maping">
-    <mxGraphModel dx="3472" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -304,6 +304,9 @@
         <mxCell id="zwPE6Gy85djtil8mobJL-106" value="Se carga la tabla&amp;nbsp;&lt;div&gt;Map_NIVEL4SAP&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="3840" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zwPE6Gy85djtil8mobJL-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zwPE6Gy85djtil8mobJL-108" target="zwPE6Gy85djtil8mobJL-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zwPE6Gy85djtil8mobJL-108" value="Se carga la tabla&amp;nbsp;&lt;div&gt;Map_NIVEL5SAP&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="3920" width="180" height="40" as="geometry" />
         </mxCell>
@@ -312,6 +315,18 @@
         </mxCell>
         <mxCell id="zwPE6Gy85djtil8mobJL-111" value="[E:\Reportes Contraloria Unificado (PSFT Y DYNAMICS)\2. Produccion\2. Datos Base\xlsx\SAP\Agrupadores_cuentas_sap.xlsx]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="2610" width="1140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zwPE6Gy85djtil8mobJL-112" value="Dynamics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="3970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zwPE6Gy85djtil8mobJL-113" value="Se carga la tabla&amp;nbsp;&lt;div&gt;Map_DynamicsDESCR_CUENTA&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="4040" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zwPE6Gy85djtil8mobJL-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zwPE6Gy85djtil8mobJL-117" target="zwPE6Gy85djtil8mobJL-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zwPE6Gy85djtil8mobJL-117" value="[E:\Reportes Contraloria Unificado (PSFT Y DYNAMICS)\2. Produccion\2. Datos Base\xlsx\DYNAMICS\CATALOGOS INTEGRADOS SC.xlsx]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="4035" width="980" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
