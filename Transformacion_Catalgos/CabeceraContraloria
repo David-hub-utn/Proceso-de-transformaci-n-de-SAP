@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T21:53:16.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wkHb1AkZtbXRIIUSXN-2" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T21:56:29.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OYsaq997anyQdZ3MfDtD" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="CabeceraContraloria">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,14 @@
         <mxCell id="Esdj4oDQTuz-UnBWh9b_-82" value="[E:\Reportes Contraloria Unificado (PSFT Y DYNAMICS)\2. Produccion\3. Datos Transformados\SAP\BALANZA\PeriodosAnteriores\2_Excluye_SAP_BALANZA_202201.qvd]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="504" y="875" width="560" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Esdj4oDQTuz-UnBWh9b_-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Esdj4oDQTuz-UnBWh9b_-86" target="Esdj4oDQTuz-UnBWh9b_-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Esdj4oDQTuz-UnBWh9b_-86" value="Se carga la tabla OrigenBusinessUnitCuenta de la tabla CabeceraContraloria00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Esdj4oDQTuz-UnBWh9b_-88" value="Se carga la tabla DetalleDptoProduct de la tabla CabeceraContraloria00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1300" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
