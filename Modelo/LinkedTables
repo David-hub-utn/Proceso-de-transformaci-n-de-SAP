@@ -1,1 +1,199 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T23:23:59.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="_UgIn_9RSu1i9fpUKA07" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-27T23:46:02.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FU_xGF3mlGm_Jed5jAcA" version="20.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-1" target="FVm5EzTOrh-qYfFBnKJW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-1" value="LinkedTables" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-3" target="FVm5EzTOrh-qYfFBnKJW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-3" value="Se carga la tabla&amp;nbsp;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;CabeceraContraloria&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="150" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-5" target="FVm5EzTOrh-qYfFBnKJW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;_FinalCabeceraContraloria.qvd(qvd)&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="165" width="750" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-7" target="FVm5EzTOrh-qYfFBnKJW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-7" value="Se carga la tabla&amp;nbsp;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;LinkedUNCuenta&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="290" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-9" target="FVm5EzTOrh-qYfFBnKJW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-9" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;_FinalCabeceraContraloria.qvd(qvd)&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="300" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-11" target="FVm5EzTOrh-qYfFBnKJW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-11" value="Se carga la tabla&amp;nbsp;DetalleDptoProduct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="430" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-15" target="FVm5EzTOrh-qYfFBnKJW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-15" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;_FinalDetalleDptoProduct.qvd(qvd)&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="440" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-17" target="FVm5EzTOrh-qYfFBnKJW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-17" value="Se carga la tabla CAT_CUENTA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="540" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-19" target="FVm5EzTOrh-qYfFBnKJW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-19" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;_FinalCatalogoCuenta.qvd(qvd)&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="550" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-20" target="FVm5EzTOrh-qYfFBnKJW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-20" value="Se carga la tabla&amp;nbsp;&lt;span style=&quot;background-color: rgb(45, 42, 46); color: rgb(252, 252, 250); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px;&quot;&gt;CAT_CUENTAcxc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="680" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-22" target="FVm5EzTOrh-qYfFBnKJW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-22" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt;_FinalCatalogoCuenta.qvd(qvd)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="690" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-24" target="FVm5EzTOrh-qYfFBnKJW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-24" value="Se carga la tabla&amp;nbsp;&lt;span style=&quot;background-color: rgb(45, 42, 46); color: rgb(252, 252, 250); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px;&quot;&gt;CAT_DPTO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="800" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-26" target="FVm5EzTOrh-qYfFBnKJW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-26" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt;_FinalCatalogoDepartamento.qvd(qvd)&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="810" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-28" target="FVm5EzTOrh-qYfFBnKJW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-28" value="Se carga la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CAT_BUSINESS_UNIT&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="920" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-30" target="FVm5EzTOrh-qYfFBnKJW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-30" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt;_CatalogoBusinessUnit.qvd(qvd)&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="930" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-32" target="FVm5EzTOrh-qYfFBnKJW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-32" value="Se carga la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CAT_PERIOD&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1030" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-34" target="FVm5EzTOrh-qYfFBnKJW-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-34" value="Se carga la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CAT_PROJECT&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1270" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-36" target="FVm5EzTOrh-qYfFBnKJW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-36" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt;_CatalogoPeriodo.qvd(qvd)&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1040" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-39" target="FVm5EzTOrh-qYfFBnKJW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-39" value="Se carga la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CAT_PRODUCT&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1150" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-42" target="FVm5EzTOrh-qYfFBnKJW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-42" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt;_CatalogoProducto.qvd(qvd)&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="1160" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-44" target="FVm5EzTOrh-qYfFBnKJW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-44" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;$(&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;vRutaTransformacionCatalogos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #ab9df2;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt;_CatalogoProject.qvd(qvd)&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="1280" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-46" target="FVm5EzTOrh-qYfFBnKJW-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-46" value="Se carga la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;LINKED_TABLE_MONEDEROS_CAJEROS_00&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1390" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-48" target="FVm5EzTOrh-qYfFBnKJW-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-48" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;RESIDENT&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1400" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-50" target="FVm5EzTOrh-qYfFBnKJW-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-50" value="Se concatena la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;LINKED_TABLE_MONEDEROS_CAJEROS_00&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="87.5" y="1500" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-52" target="FVm5EzTOrh-qYfFBnKJW-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-52" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;RESIDENT&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-54" target="FVm5EzTOrh-qYfFBnKJW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-54" value="Se cargala tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;LINKED_TABLE_MONEDEROS_CAJEROS&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1640" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-56" target="FVm5EzTOrh-qYfFBnKJW-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-56" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;Resident&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; LINKED_TABLE_MONEDEROS_CAJEROS_00&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1650" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-58" target="FVm5EzTOrh-qYfFBnKJW-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-58" value="Se borra la tabla &lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;LINKED_TABLE_MONEDEROS_CAJEROS_00&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="87.5" y="1760" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-60" target="FVm5EzTOrh-qYfFBnKJW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-60" value="&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Se borran solo algunos campos de la tabla Monederos&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="87.5" y="1900" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-62" target="FVm5EzTOrh-qYfFBnKJW-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-62" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #727072;font-style: italic;&quot;&gt;///////----DROP FIELDS Monederos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; FISCAL_YEAR &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; ACCOUNTING_PERIOD &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Fecha &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; CC &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Departamento &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #939293;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #ffd866;&quot;&gt;Nombre del Depto]&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Monederos&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="437" y="1850" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-64" value="&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#fcfcfa&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Se borran solo algunos campos de la tabla Cajeros&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="87.5" y="2060" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVm5EzTOrh-qYfFBnKJW-66" target="FVm5EzTOrh-qYfFBnKJW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVm5EzTOrh-qYfFBnKJW-66" value="&lt;div style=&quot;color: rgb(252, 252, 250); background-color: rgb(45, 42, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #727072;font-style: italic;&quot;&gt;///////----DROP FIELDS Cajeros&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; FISCAL_YEAR &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; ACCOUNTING_PERIOD &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Fecha &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; CC &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Departamento &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;DROP&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FIELDS&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #939293;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #ffd866;&quot;&gt;Nombre del Depto]&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; Cajeros&lt;/span&gt;&lt;span style=&quot;color: #ff6188;&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color: #fcfcfa;&quot;&gt; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="2010" width="390" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
